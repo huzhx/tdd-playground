@@ -1,0 +1,4 @@
+{
+  "baseUrl": "https://example.cypress.io",
+  "$schema": "https://on.cypress.io/cypress.schema.json"
+}
